@@ -36,8 +36,8 @@ namespace BrickPi3App
                 //
                 // Tests directly using the brick low level driver
                 //
-                //TestBrickDetails();
-                TestSensors();
+                TestBrickDetails();
+                //TestSensors();
                 //TestRunMotors();
                 //TestMotorEncoder();
                 //TestMotorDPS();
